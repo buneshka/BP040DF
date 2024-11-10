@@ -1,0 +1,9 @@
+{
+	"name": "BP040DF",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15c3bd0c-2bdc-4c8e-bfb8-d79d56570a00",
+		"tenantId": "ca850369-cc1f-4576-bc73-8b280adfe38e"
+	}
+}
